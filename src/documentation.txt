@@ -48,3 +48,17 @@ Pagination:
     Use the pagination controls buttons to navigate between different 
     pages of the student list.
 
+
+Development Setup
+	To run the Student List App locally on your machine, follow these steps:
+	1. Clone the repository from GitHub: git clone https://github.com/BhagyashreeThakur/studentListApp
+	2. Navigate to the project directory: cd studentListApp
+ 	3. Install dependencies: npm install
+	4. Start the development server:  npm run dev
+	5. Open your browser and go to http://localhost:5173 to view the app.
+
+
+***************************************************************************
+
+
+
